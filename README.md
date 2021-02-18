@@ -1,8 +1,8 @@
 # Hello_World
 I love data
 
-# Project Title
+# *Project Title*
 
 # Description
 
-# Files Used
+# ~~Files Used~~
